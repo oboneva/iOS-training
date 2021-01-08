@@ -22,7 +22,7 @@ Split your screen, you should have `Main.storyboard` on one side and `ViewContro
 
 Then you could set them in the `viewDidLoad` method.
 
-### Usefull controls
+### Useful views
 
 - [UIImageView](https://developer.apple.com/documentation/uikit/uiimageview?language=objc)
 - [UILabel](https://developer.apple.com/documentation/uikit/uilabel?language=objc)
